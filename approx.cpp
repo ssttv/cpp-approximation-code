@@ -32,7 +32,9 @@ int main()
 
 	//for (j=0; j<5; j++)
 		//cout<<S[j][k][l]<<endl;//test
-		//return 0
+		//return 0;
+		//return alpha;
+		//return be
 
 	return 0;
 }
