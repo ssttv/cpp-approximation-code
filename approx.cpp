@@ -34,7 +34,7 @@ int main()
 		//cout<<S[j][k][l]<<endl;//test
 		//return 0;
 		//return alpha;
-		//return be
+		//return beta
 
 	return 0;
 }
